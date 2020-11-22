@@ -4,11 +4,11 @@ This homework given by the UConn Coding Bootcamp is to create a quiz using javas
   <h3>Purpose<h3>
 It's purpose is to make use of arrays and various functions to create a functioning quiz with responsive buttons that is capable of 
     determining if you have chosen the right or wrong answer.
-    <h3>functionality<h3>
+    <h3>Functionality<h3>
 This is a timed quiz that contains 10 questions with 4 multiple choice answers.
 The quiz works as it should with counting every correct and incorrect answer and giving a score of how many right and wrong at the end.
 The timer of the quiz should also subtract 2 seconds if you get the question wrong.
-      <h3>assets<h3>
+      <h3>Assets<h3>
  I have included both a screenshot of the functioning page as well as the direct link.
         
 Here is the screenshot of the page:
